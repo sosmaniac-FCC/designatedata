@@ -1,0 +1,10 @@
+one	apple
+two	banana
+three	carrot
+four	dragonfruit
+five	elderberry
+six	fig
+seven	grape
+eight	honeycrisp
+nine	imbe
+ten	jicama
